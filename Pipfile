@@ -6,8 +6,10 @@ name = "pypi"
 [packages]
 django = "==3.1.5"
 djangorestframework = "==3.12.2"
+psycopg2-binary = "==2.8.5"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.8"
