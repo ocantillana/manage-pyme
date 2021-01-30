@@ -1,5 +1,7 @@
 {
+    "editor.linkedEditing":true,
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "/home/pelkup/.virtualenvs/manage-pyme-TYdVrH7j/bin/python"
+    "python.pythonPath": "/home/pelkup/.virtualenvs/manage-pyme-TYdVrH7j/bin/python",
+
 }

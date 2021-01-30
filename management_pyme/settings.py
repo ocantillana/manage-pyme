@@ -128,3 +128,5 @@ STATIC_URL = '/static/'
 
 
 AUTH_USER_MODEL = 'accounts.CustomUser' # For custom registration
+LOGIN_REDIRECT_URL = 'home'
+LOGOUT_REDIRECT_URL = 'home'
